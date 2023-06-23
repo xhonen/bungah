@@ -3,7 +3,7 @@ title: "Chainsaw Man"
 date: 2023-01-19
 draft: false
 description: "Discover what's new in Blowfish version 2.0."
-tags: ["new", "docs"]
+tags: ["Action", "Fantasy", "Gore"]
 series: ["Anime"]
 series_order: 1
 ---
